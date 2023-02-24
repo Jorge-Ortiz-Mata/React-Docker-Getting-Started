@@ -1,6 +1,6 @@
 # React and Docker - Getting Started
 
-This is a template where you can use it in order to create React Applications wih¿thout having Node or any other JavaScript
+This is a template you can use it in order to create React Applications wih¿thout having Node or any other JavaScript
 dependencies installed. Make sure you install Docker in your computer, VSCode and the Dev Containers extension installed.
 
 ## Steps
@@ -13,3 +13,10 @@ dependencies installed. Make sure you install Docker in your computer, VSCode an
 6. Wait until the container is created.
 7. Open a new terminal in VSCode, run **npm start** and visit **localhost:3000**
 8. Enjoy
+
+## Softwares and Versions.
+
+- Node 16
+- Docker
+- React.
+- VSCode.
